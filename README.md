@@ -6,7 +6,7 @@ This bot advices the user about following health care facilities-
 3. Home Health Agency
 at following cities namely Chicago, San Francisco and all other important cities around the world.
 
-Try out the <a href="http://35.200.162.2/guest/conversations/production/94b86ec57ab44b8ba9c2ad4abbb5bd04"> bot</a> yourself.
+You can try out the <a href="http://35.200.162.2/guest/conversations/production/94b86ec57ab44b8ba9c2ad4abbb5bd04"> bot</a> yourself.
 
 ## How do I use this directory?
 Train the assistant using the command:  
