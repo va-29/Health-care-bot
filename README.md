@@ -1,6 +1,6 @@
 ![](rasax_healthcarebot.gif)
 
-This bot tells the user about following health care facilities-
+This bot advices the user about following health care facilities-
 1. Hospital
 2. Nursing Homes
 3. Home Health Agency
